@@ -1,0 +1,14 @@
+body {
+  background-color: powderblue;
+}
+p {
+  color: black;
+  font-size: large
+}
+.my-wrapper { padding-left: 500px }
+.my-name { padding-left: 480px }
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 200%;
+}
